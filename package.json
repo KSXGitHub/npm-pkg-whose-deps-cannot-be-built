@@ -1,0 +1,12 @@
+{
+  "name": "npm-pkg-whose-deps-cannot-be-built",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-addon-that-cannot-compile": "https://github.com/KSXGitHub/node-addon-that-cannot-compile#0.1.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
